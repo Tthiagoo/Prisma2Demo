@@ -1,0 +1,17 @@
+{
+  "name": "Prisma2Demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Tthiagoo/Prisma2Demo.git",
+  "author": "Tthiagoo <51219408+Tthiagoo@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^14.11.2",
+    "install": "^0.13.0",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@prisma/cli": "^2.8.0"
+  }
+}
